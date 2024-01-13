@@ -1,0 +1,8 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="16" height="10" viewBox="0 0 16 10">
+    <title>Ouvrir la navigation mobile</title>
+    <g fill="#FFFFFF" fill-rule="evenodd">
+      <rect y="8" width="16" height="2" rx="1" fill="#FFFFFF"></rect>
+      <rect y="4" width="16" height="2" rx="1" fill="#FFFFFF"></rect>
+      <rect width="16" height="2" rx="1" fill="#FFFFFF"></rect>
+    </g>
+  </svg>

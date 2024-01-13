@@ -1,0 +1,33 @@
+.light-theme {
+    --main-background:#fff;
+    --secondary-background: #fff;
+    --main-content: #435465;
+    --header-color: #3a3a3a;
+    --primary-color: #0B253E;
+  
+}
+
+.gray-theme {
+    --main-background:#F6F9FC;
+    --secondary-background: #fff;
+    --main-content: #425466;
+    --header-color: #0A2540;
+    --primary-color: #635BFF;
+}
+
+.dark-theme {
+
+}
+
+#gradient-canvas {
+    width:100%;
+    height:100%;
+    --gradient-color-1: #a960ee; 
+    --gradient-color-2: #ff333d; 
+    --gradient-color-3: #90e0ff;  
+    --gradient-color-4: #faab00;
+  }
+
+.diagonal-clip-path {
+    clip-path: polygon(0 0, 100% 0,100% 71%, 0% 100%);
+}

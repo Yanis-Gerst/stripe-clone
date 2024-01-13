@@ -1,0 +1,5 @@
+<svg width="10" height="10" viewBox="0 0 10 10">
+  <g fill-rule="evenodd">
+      <path class="HoverArrow__tipPath" d="M1 1l4 4-4 4"></path>
+  </g>
+</svg>
